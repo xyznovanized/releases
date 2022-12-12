@@ -23,6 +23,6 @@ export ccache_size="20"
 
 export jenkins="true"
 
-export release_repo=""
+export release_repo="xyznovanized/testrepository"
 
 export timezone="UTC"
